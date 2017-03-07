@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="X">
-	<name>Tango Corporation</name>
+<squad nick="BC">
+	<name>Blackwater Corporation</name>
 	<email></email>
 	<web></web>
-	<picture>logo.paa</picture>
+	<picture>blackwater.paa</picture>
 	<title></title>
 	<member id="76561198130761737" nick="Tango">
 		<name></name>
