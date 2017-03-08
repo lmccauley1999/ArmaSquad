@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="BC">
-	<name>Blackwater Corporation</name>
+<squad nick="BMC">
+	<name>Blackwater Military Contractors</name>
 	<email></email>
 	<web></web>
 	<picture>blackwater.paa</picture>
