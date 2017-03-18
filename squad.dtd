@@ -3,7 +3,6 @@
 <!ELEMENT member (name, email, icq?, remark?)>
 <!ATTLIST member id CDATA #REQUIRED nick CDATA #REQUIRED>
 <!ELEMENT name (#PCDATA)>
-<!ELEMENT email (#PCDATA)>
 <!ELEMENT icq (#PCDATA)>
 <!ELEMENT web (#PCDATA)>
 <!ELEMENT picture (#PCDATA)>
